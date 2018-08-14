@@ -4,7 +4,7 @@
 # Prerequisites
 
 1. MIN SDK version should be greater than or equal to 21
-2. Use Java-8 language features. So JAVA 8 Source compatability is required.
+2. Uses Java-8 language features. So JAVA 8 Source compatability is required.
 
 # Usage
 
